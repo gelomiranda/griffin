@@ -63,7 +63,7 @@
 					<h2 class="margintop-50">3. Receive Loan Offers</h2>
 					<p>Receive instant emails with loan offers, scenarios,  </p>
 					<p>and requirements.</p>
-					<button type="button" class="btn btn-lg btn-success">Start Now</button>
+					<button type="button" class="btn btn-lg btn-success">Start NOW</button>
 				</div>
 			</div>
 		</div>

@@ -53,6 +53,12 @@ Route::get('/administrator/employee_type', function () {
     return view('administrator.employee_type');
 });
 
+
+
+Route::get('/administrator/primary_asset', function () {
+    return view('administrator.primary_asset');
+});
+
 /*End Administrator Routes*/
 
 
