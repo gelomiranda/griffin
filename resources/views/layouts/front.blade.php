@@ -42,9 +42,9 @@
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
 		      	<ul class="nav navbar-nav">
 		        <li class="active"><a href="{{ url('') }}">Home</a></li>
-		        <li><a href="{{ url('/how-it-works') }}">How it works</a></li>
-				<li><a href="{{ url('/lenders') }}">Lenders</a></li>
-				<li><a href="{{ url('/brokers') }}">Brokers</a></li>
+		        <li><a href="{{ url('/index.php/how-it-works') }}">How it works</a></li>
+				<li><a href="{{ url('/index.php/lenders') }}">Lenders</a></li>
+				<li><a href="{{ url('/index.php/brokers') }}">Brokers</a></li>
 				<li><a href="#contact">About us</a></li>
 				<li><a href="#contact">Sign In</a></li>
 				<li><button type="button" class="btn btn-lg btn-success">Get a loan</button>
