@@ -34,7 +34,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="index.html">
-                    <h1>GRIFFIN</h1>
+                    <h1>LOGO</h1>
                 </a>
             </div>
 
