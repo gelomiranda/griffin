@@ -11,14 +11,14 @@
     <title>Aki Funding Mock Up</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="{{ URL::asset('public/frontend/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ URL::asset('frontend/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
 
     <!-- Fonts -->
-    <link href="{{ URL::asset('public/frontend/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
-	<link href="{{ URL::asset('public/frontend/css/animate.css') }}" rel="stylesheet" />
+    <link href="{{ URL::asset('frontend/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
+	<link href="{{ URL::asset('frontend/css/animate.css') }}" rel="stylesheet" />
     <!-- Squad theme CSS -->
-    <link href="{{ URL::asset('public/frontend/css/style.css?').date('l jS \of F Y h:i:s A') }}" rel="stylesheet">
-	<link href="{{ URL::asset('public/frontend/color/default.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('frontend/css/style.css?').date('l jS \of F Y h:i:s A') }}" rel="stylesheet">
+	<link href="{{ URL::asset('frontend/color/default.css') }}" rel="stylesheet">
 
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
@@ -79,13 +79,13 @@
 	</footer>
 
     <!-- Core JavaScript Files -->
-    <script src="{{ URL::asset('public/frontend/js/jquery.min.js') }}"></script>
-    <script src="{{ URL::asset('public/frontend/js/bootstrap.min.js') }}"></script>
-    <script src="{{ URL::asset('public/frontend/js/jquery.easing.min.js') }}"></script>	
-	<script src="{{ URL::asset('public/frontend/js/jquery.scrollTo.js') }}"></script>
-	<script src="{{ URL::asset('public/frontend/js/wow.min.js') }}"></script>
+    <script src="{{ URL::asset('frontend/js/jquery.min.js') }}"></script>
+    <script src="{{ URL::asset('frontend/js/bootstrap.min.js') }}"></script>
+    <script src="{{ URL::asset('frontend/js/jquery.easing.min.js') }}"></script>	
+	<script src="{{ URL::asset('frontend/js/jquery.scrollTo.js') }}"></script>
+	<script src="{{ URL::asset('frontend/js/wow.min.js') }}"></script>
     <!-- Custom Theme JavaScript -->
-    <script src="{{ URL::asset('public/frontend/js/custom.js') }}"></script>
+    <script src="{{ URL::asset('frontend/js/custom.js') }}"></script>
 
 </body>
 

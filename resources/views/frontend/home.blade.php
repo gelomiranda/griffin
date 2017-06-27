@@ -43,7 +43,7 @@
 				<div class="wow bounceInUp" data-wow-delay="0.2s">
                 <div class="team boxed-grey">
                     <div class="inner">
-                    	<div class="avatar"><img src="{{ URL::asset('public/frontend/img/stack/property-owners.png') }}" alt="" class="img-responsive img-circle" /></div>
+                    	<div class="avatar"><img src="{{ URL::asset('frontend/img/stack/property-owners.png') }}" alt="" class="img-responsive img-circle" /></div>
 						<h5>Property Owners</h5>
                         <p class="subtitle">Easily find the best lender for your commercial real estate investment.</p>
                         <button type="button" class="btn btn-primary">Learn More</button>
@@ -55,7 +55,7 @@
 				<div class="wow bounceInUp" data-wow-delay="0.5s">
                 <div class="team boxed-grey">
                     <div class="inner">
-						<div class="avatar"><img src="{{ URL::asset('public/frontend/img/stack/mortgage+brokers.png') }}" alt="" class="img-responsive img-circle" /></div>
+						<div class="avatar"><img src="{{ URL::asset('frontend/img/stack/mortgage+brokers.png') }}" alt="" class="img-responsive img-circle" /></div>
 
 						<h5>Brokers and Debt Teams</h5>
                         <p class="subtitle">Centralize and track your process from building the OM to negotiating term sheets.</p>
@@ -68,7 +68,7 @@
 				<div class="wow bounceInUp" data-wow-delay="0.8s">
                 <div class="team boxed-grey">
                     <div class="inner">
-                    	<div class="avatar"><img src="{{ URL::asset('public/frontend/img/stack/commercial-real-estate-lenders.png') }}" alt="" class="img-responsive img-circle" /></div>
+                    	<div class="avatar"><img src="{{ URL::asset('frontend/img/stack/commercial-real-estate-lenders.png') }}" alt="" class="img-responsive img-circle" /></div>
 						<h5>Lenders</h5>
                         <p class="subtitle">Access pre-processed lending opportunities from brokers and sponsors.</p>
                         <button type="button" class="btn btn-primary">Learn More</button>
@@ -111,7 +111,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/office-property-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/office-property-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Office Loans</h5>
@@ -123,7 +123,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/Industrial+Property+Loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/Industrial+Property+Loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Industrial Loans</h5>
@@ -135,7 +135,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/retail-property-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/retail-property-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Retail Loans</h5>
@@ -148,7 +148,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/Hotel+Loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/Hotel+Loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Hotel Loans</h5>
@@ -160,7 +160,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/mutifamily-property-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/mutifamily-property-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Multifamily Loans</h5>
@@ -172,7 +172,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/download.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/download.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>And More</h5>
@@ -192,7 +192,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/new-development-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/new-development-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>New Development</h5>
@@ -205,7 +205,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/redevelopment-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/redevelopment-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Redevelopment</h5>
@@ -218,7 +218,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/acquisition-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/acquisition-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Acquisition</h5>
@@ -231,7 +231,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('public/frontend/img/stack/refinance-loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/refinance-loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Refinance</h5>
