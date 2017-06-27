@@ -148,7 +148,7 @@
 				<div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
 					<div class="service-icon">
-						<img src="{{ URL::asset('frontend/img/stack/Hotel+Loans.png') }}" alt="" />
+						<img src="{{ URL::asset('frontend/img/stack/hotel+loans.png') }}" alt="" />
 					</div>
 					<div class="service-desc">
 						<h5>Hotel Loans</h5>
